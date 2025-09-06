@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+
+/* DEBUG */
+
+.debug{
+    border: 1px dotted black;
+}
+
+
+.left-section{
+    background-color: blue;
+}
+
+.right-section{
+    background-color: red;
+}
+
+
+/* NAVBAR */
+nav{
+    justify-content: space-between;
+    text-decoration: none;
+    
+}
