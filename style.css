@@ -8,6 +8,12 @@
     display: flex;
 }
 
+body{
+    font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* DEBUG */
 
@@ -16,18 +22,35 @@
 }
 
 
-.left-section{
-    background-color: blue;
-}
-
-.right-section{
-    background-color: red;
-}
-
 
 /* NAVBAR */
 nav{
     justify-content: space-between;
     text-decoration: none;
-    
+    padding: 1rem;
 }
+
+.right-section{
+    font-size: smaller;
+}
+
+.link>a:visited, 
+.link>a:link, 
+.link>a:active{
+    text-decoration: none;
+    color: black;
+}
+
+#rotate-icon{
+    transform: rotate(90deg);
+}
+
+nav a{
+    margin: 1rem;
+}
+
+#try-link{
+    color: #0000ff;
+    font-size: large;
+}
+

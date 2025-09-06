@@ -12,6 +12,17 @@ Ho studiato musica al conservatorio e conosco il mondo della produzione musicale
 - **HTML5** per la struttura
 - **CSS3** per lo stile
 
+## 🎨 Palette di colori
+La palette di colori utilizzata in questo progetto è stata fornita dal sito **[Frontend Pratice](https://www.frontendpractice.com/projects/ableton)** ed è la seguente:
+
+
+- Giallo: `#fbffa7`
+- Arancione: `#ff764d`
+- Azzurro: `#b1c5ff`
+- Viola: `#d5b3ff`
+- Verde: `#b6ffc0`
+- Blu: `#0000ff`
+
 
 ## ⚠️ Nota
 Questo progetto non è affiliato né approvato da Ableton. È stato realizzato **solo per scopi educativi** seguendo le indicazioni su [Frontend Pratice](https://www.frontendpractice.com/projects/ableton).
