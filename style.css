@@ -18,7 +18,7 @@ body{
 /* DEBUG */
 
 .debug{
-    border: 1px dotted black;
+    border: 3px dotted black;
 }
 
 
@@ -52,5 +52,49 @@ nav a{
 #try-link{
     color: #0000ff;
     font-size: large;
+}
+
+main{
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+
+/* SECTION 1  */
+/* section 1 A */
+#about-1{
+    color: #ff764d;
+}
+
+.sec-1 a{
+    margin: 1rem;
+}
+
+/* -- section 1 B --*/
+
+div.sec-1-img{ 
+    justify-content: center;
+    align-self: center;
+    margin-top: 1rem;
+    margin-bottom: 7rem;
+}
+
+#title-1{
+     color: #ff764d;
+     position: absolute; 
+    top: 50%;           
+    left: 50%;       
+    transform: translate(-50%, -50%);
+    font-size: 3rem;
+     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    }
+    
+div.image-1{
+     position: relative;
+    background-image: url(./images/section-1.jpg);
+    width: 60vw;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
