@@ -90,7 +90,7 @@ div.sec-1-img{
     }
     
 div.image-1{
-     position: relative;
+    position: relative;
     background-image: url(./images/section-1.jpg);
     width: 60vw;
     height: 80vh;
@@ -98,3 +98,18 @@ div.image-1{
     background-size: cover;
 }
 
+/* SECTION 2  */
+
+.section-text{
+    margin: 1rem auto; 
+    width: 500px;
+}
+
+.section-bigger-text{
+    font-size:larger;
+    font-weight: bold;
+}
+
+.section-smaller-text{
+    font-size: small;
+}
