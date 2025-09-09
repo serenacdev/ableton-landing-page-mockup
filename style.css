@@ -98,11 +98,14 @@ div.image-1{
     background-size: cover;
 }
 
-/* SECTION 2  */
+/* SECTION text  */
+.section-text a{
+    text-decoration: none
+}
 
 .section-text{
     margin: 1rem auto; 
-    width: 500px;
+    width: 600px;
 }
 
 .section-bigger-text{
@@ -112,4 +115,5 @@ div.image-1{
 
 .section-smaller-text{
     font-size: small;
+    font-weight: 400;
 }
