@@ -117,3 +117,21 @@ div.image-1{
     font-size: small;
     font-weight: 400;
 }
+
+
+/* PHOTO SECTION  */
+
+.yellow-container{
+    background-color: #fbffa7;
+    width: 600px;
+    height: 600px;
+}
+
+.big-square-photo img{
+    width: 400px;
+}
+
+.small-rectangular-photo img{
+    width: 400px;
+}
+
