@@ -13,6 +13,7 @@ body{
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  position: relative;
 }
 
 /* DEBUG */
@@ -123,15 +124,29 @@ div.image-1{
 
 .yellow-container{
     background-color: #fbffa7;
-    width: 600px;
-    height: 600px;
+    width: 60vw;
+    aspect-ratio: 1 / 1;
+    position: absolute;
+    right: 0px;
+    z-index: -1;
 }
 
 .big-square-photo img{
-    width: 400px;
+    width: 40vw;
 }
 
 .small-rectangular-photo img{
-    width: 400px;
+    width: 30vw;
+}
+
+.photo-container{
+    justify-content: space-around;
+    align-items: center;
+    height: 800px;
+}
+
+/* section 3  */
+.section-photo-3{
+    margin: 8rem auto; 
 }
 
