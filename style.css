@@ -13,7 +13,6 @@ body{
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  position: relative;
 }
 
 /* DEBUG */
@@ -21,6 +20,11 @@ body{
 .debug{
     border: 3px dotted black;
 }
+
+.debug-red{
+    border: 3px dotted red;
+}
+
 
 
 
@@ -154,6 +158,11 @@ div.image-1{
     background-color: #b6ffc0;
 }
 
+.lilac{
+    background-color: #d5b3ff;
+    transform: translateX(25%); /*controllare*/
+}
+
 /* VIDEO section 5 */
 
 .video-section{
@@ -172,4 +181,36 @@ div.image-1{
     align-self: flex-start;
 }
 
-/* SECTION 7  */
+/* SECTION 9*/
+.section-photo>img{
+    width: 80vw;
+}
+
+#big-photo-section{
+    justify-content: center;
+}
+
+
+/* section 11 */
+.lilac-section{
+    justify-content:center; 
+}
+
+#lilac-photos{
+    position: relative;
+    width: 100vw;
+    aspect-ratio: 1 / 1;
+}
+
+#lilac-photos>.small-rectangular-photo{
+    position: absolute;
+    left: 6rem;
+    top: 25%;
+}
+
+#lilac-photos>.big-square-photo{
+    position: absolute;
+    right: 0px;
+    top: 25%;
+}
+
