@@ -256,3 +256,64 @@ div.image-1{
     height: 100%;
     object-fit: cover; 
 }
+
+/* FOOTER */
+footer{
+    border-top: 1px solid gray;
+    padding: 6rem;
+}
+
+
+footer a{
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+/* h1{
+    margin-bottom: 4rem;
+} */
+.columns-box{
+    width: 100%;
+    min-height: 100px;
+}
+
+.row{
+    margin: 4rem auto; 
+}
+
+.smaller-box{
+    width: 30%;
+}
+
+.bigger-box{
+    width: 40%;
+}
+.icons{
+    margin-top: 1rem;
+}
+/* NEWSLETTER BUTTON */
+.newsletter{
+    margin-top: 1rem;
+}
+.newsletter input, 
+.newsletter button{
+    padding: 0.8rem;
+}
+
+.email-form{
+    flex-grow: 1;
+}
+
+.email-form input{
+    width: 100%;
+    background-color: #EEE;
+    color: gray;
+    border: none;
+}
+
+.newsletter button{
+    background-color: #0000ff;
+    color: white;
+    border: none;
+}

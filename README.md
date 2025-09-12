@@ -30,3 +30,7 @@ Questo progetto non è affiliato né approvato da Ableton. È stato realizzato *
 
 
 COME APRIRE IL PROGETTO 
+
+scriveere come ho suddiviso il lavoro, criticità riscontrate, soluzioni 
+
+ho imparato a usare git da terminale 
