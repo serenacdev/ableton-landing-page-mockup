@@ -2,6 +2,19 @@
 
 Questo progetto è una riproduzione **non ufficiale** della landing page di **Ableton**, realizzata esclusivamente a scopo didattico.
 
+
+
+## 📑 Indice
+- [🎯 Obiettivo](#-obiettivo)  
+- [🎵 Perché proprio Ableton?](#-perché-proprio-ableton)  
+- [📚 Risorse e Strumenti](#risorse-e-strumenti)  
+- [🛠️ Tecnologie utilizzate](#-tecnologie-utilizzate)  
+- [📂 Struttura e sviluppo del progetto](#-struttura-e-sviluppo-del-progetto)  
+- [🛠️ Workflow con Git](#-workflow-con-git)  
+- [⚠️ Criticità e sviluppi futuri](#-criticità-e-sviluppi-futuri)  
+- [💻 Come aprire il progetto in locale](#-come-aprire-il-progetto-in-locale)  
+
+
 ## 🎯 Obiettivo
 L'obiettivo di questo progetto è replicare una landing page reale per **esercitarmi nello sviluppo frontend**, migliorando le mie competenze in **HTML e CSS**. 
 
