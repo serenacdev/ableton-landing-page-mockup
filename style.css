@@ -270,9 +270,6 @@ footer a{
     display: block;
 }
 
-/* h1{
-    margin-bottom: 4rem;
-} */
 .columns-box{
     width: 100%;
     min-height: 100px;
@@ -280,6 +277,7 @@ footer a{
 
 .row{
     margin: 4rem auto; 
+    font-size: larger;
 }
 
 .smaller-box{
@@ -291,6 +289,7 @@ footer a{
 }
 .icons{
     margin-top: 1rem;
+    font-size: xx-large;
 }
 /* NEWSLETTER BUTTON */
 .newsletter{
@@ -316,4 +315,40 @@ footer a{
     background-color: #0000ff;
     color: white;
     border: none;
+}
+
+/* LANGUAGE AND COUNTRY SELECTION */
+.language-country-selection select{
+    background-color: #EEE;
+    color: black;
+    border: none;
+    padding: 0.5rem;
+    margin-top: 1rem;
+}
+
+#language{
+    width: 40%;
+}
+
+#country{
+    width: 60%;
+}
+
+/* END TITLES */
+
+.last-titles{
+    font-size: small;
+    justify-content: space-between;
+}
+
+.end-titles a{
+    padding: 0.5rem;
+}
+
+.ending-icon{
+    margin-left: 1rem;
+}
+
+.end-icon{
+    align-items: center;
 }
